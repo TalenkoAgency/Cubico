@@ -63,7 +63,7 @@ header {
 }
 
 .header-info {
-    width: 50%;
+    width: 60%;
 }
 
 .header-info span {
@@ -151,6 +151,7 @@ header {
     gap: 16px;
     flex-wrap: wrap;
     justify-content: center;
+    margin-top: 10px;
 }
 
 .transparent-link {
